@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/lifestyle-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://www.instagram.com/jimkulia">
-    <img src="https://img.shields.io/badge/hand model-black?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/hand model-beige?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge"/>
   </a>
 </div>
 <h1 align="center">
