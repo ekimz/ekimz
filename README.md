@@ -21,13 +21,13 @@
 
 ### 🏡 About Me
 
-- 📍 New York, New York
-- 📚 Data Science student in QMSS program at Columbia University
+- 📍 New York City since 2019
+- 📚 Data Science student in QMSS program at Columbia University, graduating May 2022
 - 💅 Hand model on occasion
 - 🌱 Learning how to cook for one
 - 👓 Pangram, Wordle, and Dordle enthusiast
 
-### :hammer_and_wrench: Languages and Tools
+### :hammer_and_wrench: Skills
 
 <div>
 Comfortable:
