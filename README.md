@@ -8,10 +8,10 @@
     <img src="https://img.shields.io/badge/resume-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
    <a href="https://www.juliakim.me">
-    <img src="https://img.shields.io/badge/personal website-beige?style=for-the-badge&Color=pink"/>
+    <img src="https://img.shields.io/badge/website-beige?style=for-the-badge&Color=pink"/>
   </a>
   <a href="https://www.instagram.com/kimjoolia">
-    <img src="https://img.shields.io/badge/lifestyle-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/life-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <h1 align="center">
