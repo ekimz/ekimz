@@ -15,7 +15,7 @@
   </a>
 </div>
 <h1 align="center">
-  hello hello
+  hi, I'm Julia
 </h1>
 
 ### 🏡 About Me
