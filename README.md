@@ -21,10 +21,10 @@
 ### 🏡 About Me
 
 - 📍 New York City since 2019
-- 📚 Data Science student in QMSS program at Columbia University, graduating May 2022
-- 💅 Hand model on occasion
-- 🌱 Learning how to cook for one
-- 👓 Pangram, Wordle, and Dordle enthusiast
+- 📚 Data Science student in QMSS program at Columbia University, graduating Feb 2023
+- 🌱 Working on thesis: NLP driven subreddit analysis
+- 💅 Hand model
+- 👓 Webtoon, Wordle, and Pangram enthusiast
 
 ### :hammer_and_wrench: Skills
 
