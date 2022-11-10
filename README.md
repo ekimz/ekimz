@@ -10,7 +10,7 @@
    <a href="https://www.juliakim.me">
     <img src="https://img.shields.io/badge/website-beige?style=for-the-badge&Color=pink"/>
   </a>
-  <a href="https://www.instagram.com/kimjoolia">
+  <a href="https://www.instagram.com/jimkulia">
     <img src="https://img.shields.io/badge/life-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
